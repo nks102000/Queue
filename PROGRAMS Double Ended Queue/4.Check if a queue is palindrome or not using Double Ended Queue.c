@@ -1,6 +1,3 @@
-//1905622
-//Nitish Kumar Sonthalia
-
 //Double Ended Queue Check palindrome
 #include <stdio.h> 
 #include <string.h> 
