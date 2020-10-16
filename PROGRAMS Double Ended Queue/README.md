@@ -2,4 +2,4 @@
 
 1.Double Ended Queue(Arrray Implementation).
 2.Double Ended Queue Check palindrome.
-3.Double Ended Queue(Linked list Implementation).
+3.Double Ended Queue(Arrray Implementation)
