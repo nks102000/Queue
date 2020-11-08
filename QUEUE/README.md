@@ -7,4 +7,5 @@
     reverse(using array)
 
 2.WAP WAP to implement linear queue adt:
+    insert
     
