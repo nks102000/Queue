@@ -10,4 +10,4 @@
     insert
     deleteion
     display
-    reverse(using linked list
+    reverse(using linked list).
