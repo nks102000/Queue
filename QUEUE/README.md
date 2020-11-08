@@ -9,3 +9,4 @@
 2.WAP WAP to implement linear queue adt:
     insert
     deleteion
+    display
