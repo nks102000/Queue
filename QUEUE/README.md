@@ -10,3 +10,4 @@
     insert
     deleteion
     display
+    reverse(using linked list
