@@ -5,3 +5,5 @@
     deleteion
     display
     reverse(using array)
+
+2.
