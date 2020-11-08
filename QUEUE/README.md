@@ -6,4 +6,5 @@
     display
     reverse(using array)
 
-2.
+2.WAP WAP to implement linear queue adt:
+    
