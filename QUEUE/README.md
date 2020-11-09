@@ -13,4 +13,4 @@
     reverse(using linked list).
 
 3.WAP to give menu to implement a circulatr queue:
-    
+    insert
