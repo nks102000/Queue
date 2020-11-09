@@ -11,3 +11,5 @@
     deleteion
     display
     reverse(using linked list).
+
+3.
