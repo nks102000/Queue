@@ -17,4 +17,4 @@
     deleteion
     display(using array).
     
-4.
+4.WAP to 
