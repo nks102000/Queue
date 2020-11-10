@@ -16,3 +16,5 @@
     insert
     deleteion
     display(using array).
+    
+4.
