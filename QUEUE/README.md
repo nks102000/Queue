@@ -17,4 +17,4 @@
     deleteion
     display(using array).
     
-4.WAP to implement a stack adt 
+4.WAP to implement a stack adt using a 
