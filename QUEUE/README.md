@@ -19,4 +19,4 @@
     
 4.WAP to implement a stack adt using a queue adt.
 
-5.
+5
