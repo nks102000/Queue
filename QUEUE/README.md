@@ -21,4 +21,4 @@
 
 5.WAP to implement a priority queue using linked list.
 
-6.
+6
